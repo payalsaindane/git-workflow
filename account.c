@@ -16,6 +16,11 @@ feature2()
 
 }
 
+feature3()
+{
+
+}
+
 //add new features here and then merge this branch into master
 
 } 
